@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MicroControleurMonde
-- 👀 I’m interested in MCU use and implementation
+- 👀 I’m interested in MCUs use and implementation
 
 <!---
 MicroControleurMonde/MicroControleurMonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
