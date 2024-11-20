@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MicroControleurMonde
 - 👀 I’m interested in MCUs use and implementation
+- French speaker, sometimes I get distracted and forget to translate my code . In case, just remind me
 
 <!---
 MicroControleurMonde/MicroControleurMonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
